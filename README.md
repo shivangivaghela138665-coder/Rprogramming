@@ -26,3 +26,9 @@ The goal of this portfolio is to demonstrate my ability to:
 Clone the repository and run scripts in RStudio:
 ```bash
 git clone https://github.com/shivangivaghela138665-coder/Rprogramming.git
+
+## Badges
+
+![Stars](https://img.shields.io/github/stars/shivangivaghela138665-coder/Rprogramming)
+![Forks](https://img.shields.io/github/forks/shivangivaghela138665-coder/Rprogramming)
+![R Script Check](https://github.com/shivangivaghela138665-coder/Rprogramming/actions/workflows/r-check.yml/badge.svg)
