@@ -74,3 +74,7 @@ A complete end-to-end analysis of **100,000 Starbucks transactions** using R.
 
  [View Full Case Study (PDF)](case_studies/Starbucks_Sales_Case_Study.pdf)
 
+##  Future Work
+- Add more case studies (finance, healthcare, etc.)
+- Create interactive dashboards with Shiny or Plotly
+- Publish reports using RMarkdown or Quarto
