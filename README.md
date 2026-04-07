@@ -34,7 +34,7 @@ git clone https://github.com/shivangivaghela138665-coder/Rprogramming.git
 ![R Script Check](https://github.com/shivangivaghela138665-coder/Rprogramming/actions/workflows/r-check.yml/badge.svg)
 
 
-## 📖 Community Engagement Project
+##  Community Engagement Project
 
 We believe that building a strong community is just as important as writing great code.  
 This project board is dedicated to **community activities** such as polls, Q&A threads, fun discussions, and contributor introductions.
@@ -51,7 +51,7 @@ It ensures every idea moves through clear stages: **Ideas → To Do → In Progr
 - **Live / Active** → Engagement activities that are posted and open for participation.  
 - **Done / Archived** → Completed or closed discussions/polls.
 
-### 🤝 Contributor Role
+###  Contributor Role
 - Suggest new ideas in **Backlog**.  
 - Participate in polls and Q&A when they go **Live**.  
 - Help archive completed activities in **Done**.  
@@ -60,3 +60,17 @@ It ensures every idea moves through clear stages: **Ideas → To Do → In Progr
 ---
 
 This way, contributors know exactly how to get involved in community engagement activities and help keep the board active.
+
+##  Case Studies
+
+### Starbucks Sales Performance Analysis
+A complete end-to-end analysis of **100,000 Starbucks transactions** using R.
+
+**Key Insights**
+- Total Revenue: $1,486,677.08  
+- Average Spend per Customer: $14.87  
+- Top Category: Refreshers  
+- Top Region: West (39% of revenue)  
+
+ [View Full Case Study (PDF)](case_studies/Starbucks_Sales_Case_Study.pdf)
+
